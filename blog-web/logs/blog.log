@@ -1,0 +1,4 @@
+[INFO] [2016-09-07 21:37:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2016-09-07 21:37:11][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@3ffc5af1: startup date [Wed Sep 07 21:37:11 CST 2016]; root of context hierarchy
+[INFO] [2016-09-07 21:37:11][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2016-09-07 21:37:15][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@3ffc5af1: startup date [Wed Sep 07 21:37:11 CST 2016]; root of context hierarchy
